@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
+### About Me:
 <!--
 **chhayly/chhayly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![IHaveAbsolutelyNoIdeaLizLemonGIF](https://user-images.githubusercontent.com/5591764/185769717-9c5a8bec-5934-49e4-ae4d-4f6fcda875fe.gif)
