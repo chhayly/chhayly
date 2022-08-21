@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![IHaveAbsolutelyNoIdeaLizLemonGIF](https://user-images.githubusercontent.com/5591764/185769717-9c5a8bec-5934-49e4-ae4d-4f6fcda875fe.gif)
+- 🌱 I’m currently learning Assembly programming and Computer Architecture.
