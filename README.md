@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Assembly programming and Computer Architecture.
+- 🌱 I’m currently learning Computer Architecture.
